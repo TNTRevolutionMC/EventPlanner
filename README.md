@@ -1,6 +1,9 @@
 # MyMotiv
 
---
+The new repository can be found at (https://github.com/YousefSkandari/Motiv)
+
+---
+
 #### EventPlanner
 
 This app will be made for those who love to go out and meet their friends and to help plan events.
